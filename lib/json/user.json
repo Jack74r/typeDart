@@ -1,0 +1,16 @@
+{
+    "id": 1,
+    "createdAt": "2020-03-01T16:34:24.179Z",
+    "updatedAt": "2020-03-01T16:34:24.179Z",
+    "email": "test@test.fr",
+    "username": "test",
+    "role": "user",
+    "firstname": "Julius",
+    "lastname": "Heikkila",
+    "birthday": "1949-01-31T00:01:57.000Z",
+    "photoUrl": "https://randomuser.me/api/portraits/med/men/96.jpg",
+    "phone": "04-393-476",
+    "departement": "null",
+    "isActive": true,
+    "description": "null"
+}
